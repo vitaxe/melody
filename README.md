@@ -7,4 +7,4 @@
 
 > js
 
-`https://vitaxe.github.io/melody/` - посмотреть онлайн
+`[https://vitaxe.github.io/melody/](https://vitaxe.github.io/melody/)https://vitaxe.github.io/melody/` - посмотреть онлайн
